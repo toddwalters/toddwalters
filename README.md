@@ -52,41 +52,47 @@ class Todd:
 
 ---
 
-### 📊 Stats that update themselves while I sleep
+### 📊 The numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=toddwalters&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddwalters&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/github/followers/toddwalters?style=for-the-badge&logo=github&color=7AA2F7&labelColor=1a1b27" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/toddwalters?style=for-the-badge&logo=github&color=7AA2F7&labelColor=1a1b27" alt="Stars" />
+  <img src="https://img.shields.io/badge/contributions-1.1k%2Fyr-7AA2F7?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toddwalters&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 Stuff I'm proud of
 
-<p align="center">
-  <a href="https://github.com/toddwalters/configs-guides-and-cheatsheets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=toddwalters&repo=configs-guides-and-cheatsheets&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/toddwalters/aiml-python-coding-examples">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=toddwalters&repo=aiml-python-coding-examples&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/toddwalters/waltodders-hugo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=toddwalters&repo=waltodders-hugo&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+**[configs-guides-and-cheatsheets](https://github.com/toddwalters/configs-guides-and-cheatsheets)** &nbsp; ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black) ![stars](https://img.shields.io/github/stars/toddwalters/configs-guides-and-cheatsheets?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+A personal collection of configs, guides, and cheatsheets — my second brain for the terminal.
+
+**[aiml-python-coding-examples](https://github.com/toddwalters/aiml-python-coding-examples)** &nbsp; ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![stars](https://img.shields.io/github/stars/toddwalters/aiml-python-coding-examples?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+Where I learn and test AI/ML data-engineering and model-development ideas.
+
+**[waltodders-hugo](https://github.com/toddwalters/waltodders-hugo)** &nbsp; ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![stars](https://img.shields.io/github/stars/toddwalters/waltodders-hugo?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+My Hugo blog site.
 
 ---
 
-### 🏆 Trophy cabinet
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toddwalters&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-×3-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Pull_Shark-×3-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Quickdraw-⚡-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-🤠-9B59B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Arctic_Code_Vault-❄️-00CED1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
 </p>
 
 ---
