@@ -72,14 +72,34 @@ class Todd:
 
 ### 📌 Stuff I'm proud of
 
-**[configs-guides-and-cheatsheets](https://github.com/toddwalters/configs-guides-and-cheatsheets)** &nbsp; ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black) ![stars](https://img.shields.io/github/stars/toddwalters/configs-guides-and-cheatsheets?style=flat-square&color=7AA2F7&labelColor=1a1b27)
-A personal collection of configs, guides, and cheatsheets — my second brain for the terminal.
-
-**[aiml-python-coding-examples](https://github.com/toddwalters/aiml-python-coding-examples)** &nbsp; ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![stars](https://img.shields.io/github/stars/toddwalters/aiml-python-coding-examples?style=flat-square&color=7AA2F7&labelColor=1a1b27)
-Where I learn and test AI/ML data-engineering and model-development ideas.
-
-**[waltodders-hugo](https://github.com/toddwalters/waltodders-hugo)** &nbsp; ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![stars](https://img.shields.io/github/stars/toddwalters/waltodders-hugo?style=flat-square&color=7AA2F7&labelColor=1a1b27)
-My Hugo blog site.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/toddwalters/configs-guides-and-cheatsheets">configs-guides-and-cheatsheets</a></h4>
+      <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black" />
+      <img src="https://img.shields.io/github/stars/toddwalters/configs-guides-and-cheatsheets?style=flat-square&color=7AA2F7&labelColor=1a1b27" />
+      <br/><br/>
+      A personal collection of configs, guides, and cheatsheets — my second brain for the terminal.
+    </td>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/toddwalters/aiml-python-coding-examples">aiml-python-coding-examples</a></h4>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/toddwalters/aiml-python-coding-examples?style=flat-square&color=7AA2F7&labelColor=1a1b27" />
+      <br/><br/>
+      Where I learn and test AI/ML data-engineering and model-development ideas.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/toddwalters/waltodders-hugo">waltodders-hugo</a></h4>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/toddwalters/waltodders-hugo?style=flat-square&color=7AA2F7&labelColor=1a1b27" />
+      <br/><br/>
+      My Hugo blog site.
+    </td>
+    <td valign="top" width="50%"></td>
+  </tr>
+</table>
 
 ---
 
